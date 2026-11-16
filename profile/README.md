@@ -1,71 +1,81 @@
 <div align="center">
 
 <a href="https://copencia.com">
-  <img src="./assets/copencia-hero.svg" alt="Copencia — built for the work behind every great business" width="100%" />
+  <img src="./assets/copencia-hero.svg" alt="Copencia mosaic: Separate pieces. One connected business." width="100%" />
 </a>
 
 <br />
 
-### One connected platform. A thousand moving parts, working together.
+### The intelligent ERP for specialty businesses.
 
-**Purpose-built software for specialty businesses that create, fulfill, and deliver.**
+**Commerce, inventory, production, purchasing and fulfilment—on one connected platform.**
 
-[**Explore Copencia**](https://copencia.com) &nbsp;·&nbsp; [**Our GitHub**](https://github.com/copencia?tab=repositories)
+[**Explore Copencia**](https://copencia.com) &nbsp;·&nbsp; [**View our repositories**](https://github.com/orgs/copencia/repositories)
 
 </div>
 
 <br />
 
-## Software that understands how your business works
+## Built for businesses that make, sell and deliver
 
-Your business isn't a generic storefront. An order becomes a recipe, a production job, a handoff, and a delivery. Each step depends on the people, materials, and information around it.
+The counter, the workbench, the stockroom and the delivery van all need to work together. Copencia brings the moving parts into one connected operating system for specialty businesses, starting with **floral retail** and designed for **bakeries, gifting and other production-driven teams**.
 
-**Copencia brings those moving parts together**—from the first customer request to the final handoff—so teams can spend less time switching systems and more time doing their best work.
-
-We started with the realities of the floral industry. We're building for the same challenges across **florists, bakeries, caterers, gift and event businesses**, and other specialty operations.
+Our idea is simple: **every capability is a tile. Useful on its own, better when connected.**
 
 <br />
 
-## One platform. Four connected pillars.
+## One workflow, connected end to end
+
+<div align="center">
+
+**Commerce** &nbsp; → &nbsp; **Inventory** &nbsp; → &nbsp; **Production** &nbsp; → &nbsp; **Purchasing** &nbsp; → &nbsp; **Fulfilment**
+
+<sub>From an order at the counter to a finished product at the door.</sub>
+
+</div>
+
+<br />
+
+## One platform. Four pillars.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Commerce
+### 01 / Copencia Core
 
-**From inquiry to order.**
+**The shared ERP foundation.**
 
-Connected intake, customer interactions, order management, and a path toward flexible point-of-sale experiences.
+A consistent foundation for business data, identity, locations, service boundaries and connected workflows.
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / Operations
+### 02 / Copencia Apps
 
-**Make every step count.**
+**Software for the real world.**
 
-Production workflows, picking, receiving, inventory, packing, and the everyday work of running a busy shop.
+Purpose-built experiences for the counter, workbench and shop floor—from WorkBench and handheld workflows to emerging POS, kiosk and production applications.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Intelligence
+### 03 / Copencia Intelligence
 
-**Turn activity into clarity.**
+**It notices. It suggests. You approve.**
 
-Performance insights, operational visibility, and exploration of AI-assisted workflows and production intelligence.
+Our direction for insights, forecasting and AI-assisted decisions across orders, stock and production. Human approval stays in the loop for consequential actions.
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Logistics
+### 04 / Copencia Marketplace <sub>(planned)</sub>
 
-**Bring it all the way home.**
+**Add the next piece when you're ready.**
 
-Fulfillment coordination, delivery workflows, and mobile tools that keep work moving beyond the front counter.
+A future place for modules and integrations that connect to the capabilities a business already uses. **Not yet available.**
 
 </td>
 </tr>
@@ -73,47 +83,39 @@ Fulfillment coordination, delivery workflows, and mobile tools that keep work mo
 
 <br />
 
-## Built for the floor, not just the dashboard
+## Made for real work
 
 <table>
 <tr>
-<td width="33%" valign="top"><strong>◈ Connected workbench</strong><br/><br/>A central place to see, coordinate, and act on the work ahead.</td>
-<td width="33%" valign="top"><strong>◈ Mobile-first workflows</strong><br/><br/>Barcode scanning and focused tools for hands-on teams in production and fulfillment.</td>
-<td width="33%" valign="top"><strong>◈ Cloud + edge</strong><br/><br/>Cloud-connected services designed to work with real shop environments and existing systems.</td>
+<td width="33%" valign="top"><strong>WorkBench</strong><br/><br/>Coordinate orders, messages and day-to-day operations with a clear view of what needs doing.</td>
+<td width="33%" valign="top"><strong>Mobile workflows</strong><br/><br/>Scan, receive, pick and complete work close to the products and people involved.</td>
+<td width="33%" valign="top"><strong>Cloud + edge</strong><br/><br/>Connect cloud services with local devices and existing shop systems without demanding a full replacement on day one.</td>
 </tr>
 </table>
 
-> **Our philosophy:** Modernization shouldn't require a business to replace every tool overnight. Copencia is designed around modular capabilities, clear ownership, and practical interoperability.
-
 <br />
 
-## What we're exploring
+## Built with intention
 
-Our longer-term direction includes industry-specific modules, configurable integrations, local and cloud AI inference, and intelligent production workflows—such as recipe analysis, product recognition, and inventory assistance.
+- **Modular by design.** Adopt capabilities individually; connect them as the business grows.
+- **Secure foundations.** Tenant isolation, explicit authorization and deliberate service ownership.
+- **Interoperable systems.** Connect to existing software and hardware while native capabilities evolve.
+- **Practical intelligence.** Explore local and cloud inference for production insight, recipe analysis and operational recommendations—not AI for its own sake.
 
-Those capabilities are **under active development**, not promises of general availability. We share public interfaces and repositories as they're ready.
+We're actively building. Some applications, integrations and intelligence capabilities described here are **in development**, not generally available. Public APIs, documentation and repositories will be shared as they're ready.
 
 <br />
-
-## For developers
-
-We're building with an emphasis on:
-
-- **Clear contracts** — explicit boundaries between services and integrations.
-- **Security by design** — tenant isolation, authorization, and auditable operations.
-- **Interoperability** — cloud, edge, and existing third-party business systems.
-- **Modularity** — industry-specific workflows on a shared platform foundation.
-
-Most platform development currently lives in private repositories. Public code, API documentation, and integration opportunities will be linked here when released.
 
 <div align="center">
 
 ---
 
-### Better connected work starts here.
+### Everything connected.
 
-[**copencia.com**](https://copencia.com) &nbsp;·&nbsp; [**Explore repositories**](https://github.com/orgs/copencia/repositories)
+Start with the piece you need. Add the rest as you grow.
 
-<sub>Copencia · Commerce / Operations / Intelligence / Logistics</sub>
+[**copencia.com**](https://copencia.com) &nbsp;·&nbsp; [**GitHub repositories**](https://github.com/orgs/copencia/repositories)
+
+<sub>Copencia · The intelligent ERP for specialty businesses</sub>
 
 </div>
