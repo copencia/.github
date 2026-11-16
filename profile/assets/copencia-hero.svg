@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Copencia mosaic — Separate pieces. One connected business.</title>
+<desc id="desc">Light-first Copencia brand illustration. Teal and mint capability tiles snap edge to edge on one grid, joined by one purple connection square. Text remains on the clear left side.</desc>
+<defs>
+ <linearGradient id="deep" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#0B6B6B"/><stop offset="1" stop-color="#0A3440"/></linearGradient>
+ <linearGradient id="teal" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#14B8A6"/><stop offset="1" stop-color="#0B6B6B"/></linearGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#A7F3D0"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+ <linearGradient id="navy" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#0A3440"/><stop offset="1" stop-color="#051E28"/></linearGradient>
+ <linearGradient id="aqua" x1="0" y1="0" x2=".5" y2="1"><stop stop-color="#E6F9F7"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+ <filter id="lift" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#051E28" flood-opacity=".16"/></filter>
+ <clipPath id="bounds"><rect width="1200" height="390"/></clipPath>
+</defs>
+<g clip-path="url(#bounds)">
+ <rect width="1200" height="390" fill="#F4F8FA"/>
+ <path d="M0 0H1200V390H0Z" fill="#E6F9F7" opacity=".34"/>
+ <rect x="0" y="0" width="15" height="390" fill="#0B6B6B"/>
+ <text x="76" y="75" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3" fill="#6D3FC0">COPENCIA  /  SPECIALTY ERP</text>
+ <text x="74" y="154" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8" fill="#141026">Separate pieces.</text>
+ <text x="74" y="218" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8" fill="#141026">One connected</text>
+ <text x="74" y="282" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.8" fill="#141026">business.</text>
+ <text x="76" y="338" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#18212B">One intelligent platform for businesses that make, sell and deliver.</text>
+ <!-- A grid of touching 68px modules. The mosaic gathers at the right edge and never enters the copy zone. -->
+ <g transform="translate(732 -15)">
+  <!-- row 0: staggered capability markers -->
+  <rect x="136" y="0" width="68" height="68" fill="url(#aqua)"/>
+  <rect x="204" y="0" width="68" height="68" fill="url(#mint)"/>
+  <path d="M272 0H340V68H272Z" fill="url(#teal)"/>
+  <rect x="340" y="0" width="68" height="68" fill="url(#navy)"/>
+  <rect x="408" y="0" width="68" height="68" fill="url(#deep)"/>
+  <!-- row 1 -->
+  <rect x="68" y="68" width="68" height="68" fill="url(#aqua)"/>
+  <rect x="136" y="68" width="68" height="68" fill="url(#mint)"/>
+  <path d="M204 68H272V136H204Z" fill="url(#teal)"/>
+  <rect x="272" y="68" width="68" height="68" fill="url(#deep)"/>
+  <path d="M340 68H408V136H340V102A34 34 0 0 1 374 68Z" fill="url(#navy)"/>
+  <rect x="408" y="68" width="68" height="68" fill="url(#navy)"/>
+  <!-- row 2: the purple junction connects flows -->
+  <rect x="0" y="136" width="68" height="68" fill="url(#aqua)"/>
+  <rect x="68" y="136" width="68" height="68" fill="url(#mint)"/>
+  <rect x="136" y="136" width="68" height="68" fill="url(#teal)"/>
+  <rect x="204" y="136" width="68" height="68" fill="#6D3FC0" filter="url(#lift)"/>
+  <rect x="272" y="136" width="68" height="68" fill="url(#teal)"/>
+  <rect x="340" y="136" width="68" height="68" fill="url(#deep)"/>
+  <rect x="408" y="136" width="68" height="68" fill="url(#navy)"/>
+  <!-- row 3 -->
+  <rect x="0" y="204" width="68" height="68" fill="url(#aqua)"/>
+  <rect x="68" y="204" width="68" height="68" fill="url(#mint)"/>
+  <rect x="136" y="204" width="68" height="68" fill="url(#teal)"/>
+  <rect x="204" y="204" width="68" height="68" fill="url(#teal)"/>
+  <rect x="272" y="204" width="68" height="68" fill="url(#deep)"/>
+  <rect x="340" y="204" width="68" height="68" fill="url(#navy)"/>
+  <rect x="408" y="204" width="68" height="68" fill="url(#deep)"/>
+  <!-- row 4 -->
+  <rect x="68" y="272" width="68" height="68" fill="url(#aqua)"/>
+  <rect x="136" y="272" width="68" height="68" fill="url(#mint)"/>
+  <path d="M204 272H272V340H204A68 68 0 0 1 272 272Z" fill="url(#teal)"/>
+  <rect x="272" y="272" width="68" height="68" fill="url(#deep)"/>
+  <rect x="340" y="272" width="68" height="68" fill="url(#navy)"/>
+  <rect x="408" y="272" width="68" height="68" fill="url(#navy)"/>
+  <!-- row 5: extension -->
+  <rect x="136" y="340" width="68" height="68" fill="url(#mint)"/>
+  <rect x="204" y="340" width="68" height="68" fill="url(#teal)"/>
+  <rect x="272" y="340" width="68" height="68" fill="url(#deep)"/>
+  <rect x="340" y="340" width="68" height="68" fill="url(#navy)"/>
+  <rect x="408" y="340" width="68" height="68" fill="url(#navy)"/>
+ </g>
+</g>
+</svg>
