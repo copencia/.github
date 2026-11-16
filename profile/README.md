@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://copencia.com">
-  <img src="https://raw.githubusercontent.com/copencia/.github/main/profile/assets/copencia-hero.svg" alt="Copencia — built for the work behind every great business" width="100%" />
+  <img src="./assets/copencia-hero.svg" alt="Copencia — built for the work behind every great business" width="100%" />
 </a>
 
 <br />
